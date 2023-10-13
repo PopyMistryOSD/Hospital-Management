@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+class md{
+public:
+
+void masud(int m){
+    int sum=m;
+    cout<<sum<<endl;
+}
+void masud(int m,int n){
+    int sum=m+n;
+    cout<<sum<<endl;
+}
+void masud(float m, float n){
+    int sum=m+n;
+    cout<<sum<<endl;
+}
+};
+int main()
+{
+    md f1;
+    f1.masud (10);
+    f1.masud (10,10);
+    f1.masud (10.5f,10.5f);
+}

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637333842 source:c:\users\user\onedrive\desktop\popy\hospital management\main.cpp
+	<iostream>
+	<conio.h>
+
+1638471515 source:d:\hospital management\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+
